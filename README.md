@@ -1,6 +1,6 @@
 # Onboarding Tracker
 
-Spring Boot 3 (Java 17) REST API with embedded H2. No UI.
+Spring Boot 3.5 (Java 25) REST API with embedded H2. No UI.
 
 ## Run
 ```
